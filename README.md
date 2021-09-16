@@ -4,7 +4,7 @@ This is a multi-modal fusion approach based on VGG16 and FastText for identifyin
 
 # Dataset
 
-[CrisisMMD]: https://crisisnlp.qcri.org/crisismmd
+[CrisisMMD]: (https://crisisnlp.qcri.org/crisismmd)
 
 The dataset includes images and text messages. 
 
