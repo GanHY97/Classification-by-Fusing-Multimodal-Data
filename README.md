@@ -24,3 +24,6 @@ The following environments is tested:
 
 - Text messages needs to be preprocessed.
 
+# More
+
+https://ganhy97.github.io/2022/01/09/Classification-by-Fusing-Multimodal-Data/
