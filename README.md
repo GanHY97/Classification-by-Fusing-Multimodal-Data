@@ -26,4 +26,4 @@ The following environments is tested:
 
 # More
 
-https://ganhy97.github.io/2022/01/09/Classification-by-Fusing-Multimodal-Data/
+https://ganhy97.github.io/2021/10/09/Classification-by-Fusing-Multimodal-Data/
